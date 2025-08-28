@@ -17,7 +17,7 @@ function App() {
 
   return (
     <>
-      <body className='bg-white dark:bg-[#2b2b2b]'>
+      <body className='bg-white dark:bg-gray-950'>
         <div className='flex justify-center items-center'>
            <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
