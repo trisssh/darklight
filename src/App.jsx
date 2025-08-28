@@ -29,8 +29,8 @@ function App() {
         </div>
         
         <div className='flex flex-col justify-center items-center'>
-          <h1 className='text-center text-blue-700 font-bold'>Vite + React</h1>
-          <h4 className='text-black dark:text-white'>Dark/Light Mode</h4>
+          <h1 className='text-center text-blue-700 font-bold'>Vite + React </h1>
+          <h4 className='text-black dark:text-white'>Dark/Light Mode by Trisha</h4>
 
           <button onClick={toggleTheme}
            className='bg-blue-700 text-black dark:text-white border py-2 px-5 rounded cursor-pointer m-1 flex justify-center items-center gap-1'>
