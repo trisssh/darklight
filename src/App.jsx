@@ -67,19 +67,6 @@ function App() {
           culpa qui off icia deserunt mollit anim id est laborum.
         </h6>
 
-        {/* Search Bar Container */}
-        <div className="w-full sm:w-11/12 md:w-8/12 xl:w-1/2 rounded bg-white pl-1 border">
-          <section className="w-full h-10 flex items-center space-x-2">
-            <input
-              type="text"
-              className="w-full h-full font-medium md:pl-2 focus:outline-none"
-              placeholder="Search by title"
-            />
-            <span className="mx-2 bg-[#51C093] p-2 rounded-full">
-              <BsSearch className="flex justify-center items-center" />
-            </span>
-          </section>
-        </div>
       </body>
     </>
   );
